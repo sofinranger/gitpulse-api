@@ -1,0 +1,6 @@
+repo_paths.txt
+.env
+/venv
+__pycache__/
+last_commit.json
+last_commit.txt
